@@ -1,0 +1,4 @@
+﻿  bank system.cpp
+G:\new search\ICPC\sheet assuit\basics\CRUD project Bank System\CRUD project Bank System\bank system.cpp(51,32): warning C4129: 'c': unrecognized character escape sequence
+G:\new search\ICPC\sheet assuit\basics\CRUD project Bank System\CRUD project Bank System\bank system.cpp(330,32): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  CRUD project Bank System.vcxproj -> G:\new search\ICPC\sheet assuit\basics\CRUD project Bank System\x64\Debug\CRUD project Bank System.exe
