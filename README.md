@@ -8,6 +8,6 @@ sign_up &sign_in screen
 main menu has some option like 
 transactions also has some features like withdraw and debosit
 and manage users in the system 
-there is two attachments (clients data,users data)
+there is two attachments files (clients data,users data) 
 and a premission for who will access these features
 try It and give me your advices.
